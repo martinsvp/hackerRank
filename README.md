@@ -7,3 +7,5 @@ Este repositório contém minhas soluções para exercícios da plataforma Hacke
 * As soluções refletem meu aprendizado e podem não ser as mais otimizadas; **melhorias são bem-vindas**.
 
 * Esse repositório é para fins educacionais e de prática;
+
+🔗 [Perfil HackerRank](https://www.hackerrank.com/profile/martins_vp)
