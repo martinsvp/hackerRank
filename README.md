@@ -1,4 +1,4 @@
-# HackerRank Solutions Repository
+# HackerRank Solutions
 
 Este repositório contém minhas soluções para exercícios da plataforma HackerRank, divididas por trilhas de estudo. Cada pasta representa uma trilha específica, como Python, JavaScript, SQL, etc., e contém arquivos com a solução dos exercícios.
 
